@@ -1,0 +1,9 @@
+# we build this from package.json
+node_modules
+# .env is local environment thing
+.env
+# git
+.git
+.gitignore
+# log files
+*.log
